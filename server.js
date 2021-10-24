@@ -197,8 +197,4 @@ const viewEmp = async() => {
 
 
 
-
-
-
-
 actions()
